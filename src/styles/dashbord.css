@@ -7,3 +7,18 @@
     background-position: center center;
     padding: 10px;
   }
+
+  .card-body {
+    padding: 0.25rem;
+  }
+
+  .filter-content {
+    margin-top : 0%;
+  }
+
+  .btn-primary {
+    color: #fff;
+    background-color: #5590d0; 
+    padding: 3px 9px 3px;
+    border-color: #5590d0;
+}

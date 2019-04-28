@@ -1,7 +1,5 @@
 import React,{Component} from 'react';
-import logo from './logo.svg';
 import Login from './components/login';
-import Signup from './components/signup';
 import Dashbord from './components/dashboard'
 class App extends Component {
 
