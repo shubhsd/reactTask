@@ -1,0 +1,104 @@
+.main-section {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color:#343a40;
+    background-size: cover;
+    background-position: center center;
+    padding: 10px;
+}
+
+.confirm-wrapper {
+    width: 100%;
+    max-width: 450px;
+    margin: 30px auto;
+    background: transparent;
+    padding: 30px; 
+    box-shadow: 0px 1px 13px #302B47;
+    border-radius: 4px;
+    margin-top: 100px
+}
+
+
+.outer {
+    width: 110px;
+    height: 110px;
+    background: #302B47;
+    margin:auto;
+    border-radius: 55%;
+    padding: 10px 0px;
+    text-align: CENTER;
+}
+
+.btn-login {
+    width: 100%;
+    max-width: 200px;
+    padding: 10px;
+    color: #fff;
+    font-size: 16px;
+    background: #302B47;
+    border-radius: 40px;
+    margin-top: 10px;
+}
+
+.btn-login:hover,
+.btn-login:focus,
+.btn-login:active {
+    color: #eee;
+    background: #302B47;
+}
+
+hr {
+    border-color: #302B47;
+}
+
+.content-sect h2 {
+    font-size: 22px;
+    color: white;
+    font-weight: 300;
+}
+
+.content-sect h3 {
+    font-weight: 500;
+    color: rgb(119, 119, 119);
+}
+
+input.custom-input {
+    width: 100%;
+    height: 40px;
+    border: 1px solid #f5f5f5;
+    box-shadow: none !important;
+    outline: none !important;
+    background: #F5F5F5;
+    border-radius: 2px;
+    color: #302B47;
+}
+
+input.custom-button {
+    width: 100%;
+    margin-top: 25px;
+    height: 50px;
+    border: none;
+    color: #fff;
+    box-shadow: none;
+    background: #6495ED;
+    font-weight: 700;
+    border-radius: 2px;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 1;
+}
+
+p.copy
+{
+    font-size: 12px;
+    margin-top: 20px;
+    color: white;
+}
+
+input.custom-input:hover, 
+input.custom-input:focus, 
+input.custom-input:active 
+{
+    border: 1px solid #6495ED;
+}
