@@ -69,7 +69,7 @@ export default class Login extends Component {
                     </div>
                 </div>
                 <div className="content-sect">
-                    <h4 className="text-center" onClick={()=>this.switchAction()} >{this.state.isSignup?'Already have account ?':"do'nt have account ?"}</h4>
+                    <h4 className="text-center" style={{cursor: "pointer"}}  onClick={()=>this.switchAction()} >{this.state.isSignup?'Already have account ?':"do'nt have account ?"}</h4>
                     <hr />
                 </div>
             </div>
