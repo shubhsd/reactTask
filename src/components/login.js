@@ -128,7 +128,7 @@ export default class Login extends Component {
           <div className="content-sect">
             <h4
               className="text-center"
-              style={{ cursor: "pointer" }}
+              style={{ cursor: "pointer", color : "#ffffff"}}
               onClick={() => this.switchAction()}
             >
               {this.state.isSignup
