@@ -7,6 +7,10 @@ In the project directory, you can run:
 ### `npm install`
 Run command npm install first, to install all dependencies and packages.
 
+### `Removing fsevents/ loader issue`
+
+Run command npm i fsevents --save after npm i if loader or fsevents issue is seen.
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
