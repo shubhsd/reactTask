@@ -16,7 +16,7 @@ The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
 ### `Important Note`
-  Initially after login no data will be shown for new user. Data will populate after we add items manually once entering the dashboard.
+  Initially after login no data will be shown for new user. Data will populate after we add items manually once entering the dashboard. Also filters in the dashboard are only to fulfill UI purpose, no additional functionality is provided for them.
 
 ### `npm test`
 
